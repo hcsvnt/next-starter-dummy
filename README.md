@@ -37,7 +37,6 @@ Built on Node v20.10.0 also specified in .nvmrc, just run ``nvm use` to switch t
 -   d3 - data visualization library
 -   nivo - ready-mades for d3
 -   framer-motion - react-specific animation library
--   gsap - general, low level animation library
 -   mapbox-gl - map library
 -   nodemailer - email sending library
 -   react-gtm-module - google tag manager library
