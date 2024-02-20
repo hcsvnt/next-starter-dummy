@@ -1,0 +1,17 @@
+{
+    "extends": [
+        "next/core-web-vitals",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:react/recommended",
+        "plugin:import/errors",
+        "plugin:import/warnings",
+        "plugin:jsx-a11y/recommended",
+        "plugin:react/jsx-runtime",
+        "next",
+        "prettier"
+    ],
+    "rules": {
+        "arrow-parens": [1, "as-needed"],
+        "comma-dangle": 1
+    }
+}
